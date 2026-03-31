@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My Name is Rishi Jain
+Registration Number - 25BCE10329
+Branch - CSE Core
+First Year
+
+I love to build project and contribute to them
 <!--
 **rishijain754/rishijain754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
